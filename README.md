@@ -8,13 +8,13 @@ Six data sets from Instacart containing details on orders, customers, products, 
 Source: The Instacart Online Grocery Shopping Dataset 2017, accessed via Kaggle
 
 ## Steps
-Data wrangling
-Consistency checks
-Merging data sets
-Deriving new variables
-Grouping & aggregating
-Exploratory data analysis
-Visualizations
+– Data wrangling
+– Consistency checks
+– Merging data sets
+– Deriving new variables
+– Grouping & aggregating
+– Exploratory data analysis
+– Visualizations
 
 ## Recommendations
 – Show mid-range products of the most popular depart-ments produce, dairy, snacks and beverages in ads
